@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">App Converter</string>
+
+    <string name="hitung">Hitung</string>
+
+    <string name="hint">Tolong masukan angka</string>
+    <string name="hintsuhu">Masukan suhu</string>
+    <string name="nilaisuhu">Nilai Suhu</string>
+    <string name="hintuang">Masukan Uang</string>
+    <string name="nilaiuang">Nilai Uang</string>
+    <string name="hintberat">Masukan Berat</string>
+    <string name="nilaiberat">Nilai Berat</string>
+    <string name="hintpanjang">Masukan Panjang</string>
+    <string name="nilaipanjang">Nilai Panjang</string>
+    <string name="hintpenyimpanan">Masukan Penyimpanan</string>
+    <string name="nilaipenyimpanan">Nilai Penyimpanan</string>
+    <string name="hintwaktu">Masukan Waktu</string>
+    <string name="nilaiwaktu">Nilai Waktu</string>
+    <string name="hintluas">Masukan Luas</string>
+    <string name="nilailuas">Nilai Luas</string>
+
+    <string name="suhu">Suhu</string>
+    <string name="mata_uang">Mata Uang</string>
+    <string name="berat">Berat</string>
+    <string name="panjang">Panjang</string>
+    <string name="penyimpanan">Penyimpanan</string>
+    <string name="waktu">Waktu</string>
+    <string name="luas">Luas</string>
+
+    <string-array name="suhu">
+        <item>Kelvin(K)</item>
+        <item>Celcius(C)</item>
+        <item>Fahrenheit(F)</item>
+        <item>Reamur(R)</item>
+    </string-array>
+
+    <string-array name="uang">
+        <item>Indonesia(IDR)</item>
+        <item>United States(USD)</item>
+        <item>Saudi Arabia(SAR)</item>
+    </string-array>
+
+    <string-array name="berat">
+        <item>Kg</item>
+        <item>Hg</item>
+        <item>Dag</item>
+        <item>Gr</item>
+        <item>Dg</item>
+        <item>Cg</item>
+        <item>Mg</item>
+    </string-array>
+
+    <string-array name="panjang">
+        <item>Km</item>
+        <item>Hm</item>
+        <item>Dam</item>
+        <item>M</item>
+        <item>Dm</item>
+        <item>Cm</item>
+        <item>mm</item>
+    </string-array>
+
+    <string-array name="penyimpanan">
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+
+    <string-array name="waktu">
+        <item>Detik</item>
+        <item>Menit</item>
+        <item>Jam</item>
+    </string-array>
+
+    <string-array name="luas">
+        <item>Km\u00B2</item>
+        <item>Hm\u00B2</item>
+        <item>Dam\u00B2</item>
+        <item>M\u00B2</item>
+        <item>Dm\u00B2</item>
+        <item>Cm\u00B2</item>
+        <item>mm\u00B2</item>
+    </string-array>
+</resources>
