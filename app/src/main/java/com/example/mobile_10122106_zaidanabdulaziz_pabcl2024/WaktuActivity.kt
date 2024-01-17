@@ -20,7 +20,6 @@ class WaktuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_waktu)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spWaktuAwal = findViewById(R.id.sp_waktu_awal)
         spWaktuAkhir = findViewById(R.id.sp_waktu_akhir)

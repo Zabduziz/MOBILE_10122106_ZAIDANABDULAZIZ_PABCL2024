@@ -19,7 +19,6 @@ class BeratActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_berat)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spBeratAwal = findViewById(R.id.sp_berat_awal)
         spBeratAkhir = findViewById(R.id.sp_berat_akhir)

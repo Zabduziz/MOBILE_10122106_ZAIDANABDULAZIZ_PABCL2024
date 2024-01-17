@@ -19,7 +19,6 @@ class PenyimpananActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_penyimpanan)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spPenyimpananAwal = findViewById(R.id.sp_penyimpanan_awal)
         spPenyimpananAkhir = findViewById(R.id.sp_penyimpanan_akhir)

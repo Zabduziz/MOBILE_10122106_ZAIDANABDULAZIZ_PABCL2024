@@ -19,7 +19,6 @@ class PanjangActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_panjang)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spPanjangAwal = findViewById(R.id.sp_panjang_awal)
         spPanjangAkhir = findViewById(R.id.sp_panjang_akhir)

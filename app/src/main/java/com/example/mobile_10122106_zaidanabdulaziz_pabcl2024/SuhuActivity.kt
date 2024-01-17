@@ -20,7 +20,6 @@ class SuhuActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_suhu)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spSuhuAwal = findViewById(R.id.sp_suhu_awal)
         spSuhuAkhir = findViewById(R.id.sp_suhu_akhir)

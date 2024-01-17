@@ -14,39 +14,25 @@
         tools:targetApi="31">
         <activity
             android:name=".LuasActivity"
-            android:exported="false"
-            android:label="Wide Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".WaktuActivity"
-            android:exported="false"
-            android:label="Time Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".PenyimpananActivity"
-            android:exported="false"
-            android:label="Size Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".PanjangActivity"
-            android:exported="false"
-            android:label="Length Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".BeratActivity"
-            android:exported="false"
-            android:label="Weight Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".UangActivity"
-            android:exported="false"
-            android:label="Money Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".SuhuActivity"
-            android:exported="false"
-            android:label="Temperature Converter"
-            android:parentActivityName=".MainActivity"/>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

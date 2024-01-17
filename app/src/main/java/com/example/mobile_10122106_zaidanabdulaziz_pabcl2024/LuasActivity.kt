@@ -19,7 +19,6 @@ class LuasActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_luas)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spLuasAwal = findViewById(R.id.sp_luas_awal)
         spLuasAkhir = findViewById(R.id.sp_luas_akhir)

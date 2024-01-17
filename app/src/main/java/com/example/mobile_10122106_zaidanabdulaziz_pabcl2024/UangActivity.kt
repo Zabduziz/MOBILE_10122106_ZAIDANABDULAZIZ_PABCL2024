@@ -20,7 +20,6 @@ class UangActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_uang)
-        supportActionBar?.setDisplayHomeAsUpEnabled(true)
 
         spUangAwal = findViewById(R.id.sp_uang_awal)
         spUangAkhir = findViewById(R.id.sp_uang_akhir)
